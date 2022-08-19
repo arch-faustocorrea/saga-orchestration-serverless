@@ -3,6 +3,6 @@ terraform {
     # modify the values for the storage account
     storage_account_name = "sagafcorq"
     container_name       = "testterraform"
-    key                  = "terraform.tfstate"
+    key                  = "tform.tfstate"
   }
 }
